@@ -40,4 +40,4 @@ Thank you for visiting my personal portfolio repository! I hope you find it info
 [
 ](https://github.com/evaniaputri/evaniaputri.github.io)
 
-![namagambar](link gambar)
+![header](https://github.com/evaniaputri/evaniaputri.github.io/blob/main/Screenshot%202026-07-27%20at%2016.56.54.png)
